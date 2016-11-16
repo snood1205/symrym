@@ -1,1 +1,1 @@
-include 'symrym/version'
+require 'symrym/version'
