@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'symrym'
-  s.version     = 'a.0.1'
+  s.version     = '0.0.1'
   s.date        = '2016-11-16'
   s.summary     = 'A symbolic calculator for calculus'
   s.description = %q|A computer algebra system made primarily
